@@ -1,0 +1,17 @@
+body{
+    background-color: darkgray;
+    color: rgb(16, 8, 108);
+}
+.recognition{
+    width: 80%;
+    font-size: 25px;
+}
+.objects,#objectname,#objectaccuracy{
+    color: black;
+    font-size: 22px;
+}
+#camara{
+    border:2px double black;
+    width: 350px;
+    height: 300px;
+}
